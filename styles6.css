@@ -1,0 +1,317 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.topnavigation {
+    background-color: #D9D9D9;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.topnavigation a {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.searchicon {
+    position: absolute;
+    right: 24px;
+    bottom: 646px;
+    height: 20px;
+    width: 30px;
+}
+
+.location {
+    position: absolute;
+    left: 750px;
+}
+
+.events {
+    position: absolute;
+    left: 856px;
+}
+
+.aboutus {
+    position: absolute;
+    left: 942px;
+}
+
+.sign {
+    float: right;
+    margin-right: 160px;
+}
+
+.librarylogo {
+    position: absolute;
+    left: 25px;
+    top: 6px;
+    height: 80px;
+    width: 80px;
+}
+
+.options {
+    position: absolute; 
+    bottom: 244px;
+    left: 32px;
+    font-family: 'Mate', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: px;
+}
+
+.searchtext {
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    right: 108px;
+    top: 12px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.searchbuttons {
+    float: right;
+    position: absolute;
+    left: 870px;
+    top: 46px;
+}
+
+.title {
+    position: absolute;
+    width: 120px;
+    height: 25px;
+    left: -122px;
+    top: 25px;
+    background: #D9D9D9;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    border-color: #D9D9D9;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.isbn {
+    position: absolute;
+    width: 120px;
+    height: 25px;
+    left: 18px;
+    top: 25px;
+    background: #D9D9D9;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    border-color: #D9D9D9;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+   
+}
+
+.dropdowns {
+    position: absolute;
+    left: 2px;
+    top: -9px;
+}
+
+#format {
+    position: absolute;
+    width: 80px;
+    height: 25px;
+    left: 1024px;
+    top: 80px;
+    font-family: 'Inter', sans-serif;
+    background: #D9D9D9;
+    border-radius: 5px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+}
+
+#genre {
+    position: absolute;
+    width: 80px;
+    height: 25px;
+    left: 1114px;
+    top: 80px;
+    font-family: 'Inter', sans-serif;
+    background: #D9D9D9;
+    border-radius: 6px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.circle {
+position: absolute;
+left: 355px;
+top: 280px;
+width: 300px;
+height: 300px;
+}
+
+.camera {
+position: absolute;
+left: 412px;
+top: 340px;
+width: 190.67px;
+height: 173.33px;
+}
+
+.upload {
+position: absolute;
+width: 181px;
+height: 30px;
+left: 430px;
+top: 514px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 30px;
+text-decoration-line: underline;
+color: #FFFFFF;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.welcome {
+position: absolute;
+width: 788px;
+height: 61px;
+left: 450px;
+top: 100px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 61px;
+color: #742C2C;
+}
+
+.lets {
+position: absolute;
+width: 600px;
+height: 61px;
+left: 756px;
+top: 160px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 61px;
+color: #ED907F;
+}
+
+.create {
+position: absolute;
+width: 466px;
+height: 61px;
+left: 752px;
+top: 224px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 61px;
+color: #984F1F;
+}
+
+.registerform {
+    position: absolute;
+    left: 740px;
+    top: 340px;
+}
+
+fieldset {
+    border: none;
+}
+
+.fullname {
+width: 348px;
+height: 22px;
+background: #D9D9D9;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border: none;
+}
+
+.email {
+width: 348px;
+height: 22px;
+background: #D9D9D9;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border: none;
+}
+
+.phone {
+width: 348px;
+height: 22px;
+background: #D9D9D9;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border: none;
+}
+
+.address {
+width: 348px;
+height: 22px;
+background: #D9D9D9;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border: none;
+}
+
+.registerbutton {
+    width: 170px;
+    height: 28px;
+    background: #067C44;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 17px;
+    font-family: 'Tahoma';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.already {
+position: absolute;
+width: 106px;
+height: 14px;
+left: 930px;
+top: 638px;
+font-family: 'Tahoma';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+}
+
+.lastsignin {
+position: absolute;
+width: 38px;
+height: 14px;
+left: 1042px;
+top: 649px;
+font-family: 'Tahoma';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+text-decoration-line: underline;
+color: #2477D9;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
