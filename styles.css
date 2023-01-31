@@ -1,0 +1,264 @@
+body {
+    margin: 0;
+    
+}
+
+.topnavigation {
+    background-color: #D9D9D9;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.topnavigation a {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: black
+}
+
+.searchicon {
+    position: relative;
+    left: 1226px;
+    bottom: 267px;
+    height: 20px;
+    width: 30px;
+}
+
+.location {
+    position: absolute;
+    left: 750px;
+}
+
+.events {
+    position: absolute;
+    left: 856px;
+}
+
+.aboutus {
+    position: absolute;
+    left: 942px;
+}
+
+.sign {
+    position: relative;
+    left: 1056px;
+}
+
+.librarylogo {
+    position: absolute;
+    left: 25px;
+    top: 6px;
+    height: 80px;
+    width: 80px;
+}
+
+.options {
+    position: relative; 
+    bottom: 200px;
+    left: 32px;
+    font-family: 'Mate', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+ 
+}
+
+.searchtext {
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    right: 108px;
+    top: 12px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.searchbuttons {
+    float: right;
+    position: absolute;
+    left: 870px;
+    top: 46px;
+}
+
+.title {
+    position: absolute;
+    width: 120px;
+    height: 25px;
+    left: -122px;
+    top: 25px;
+    background: #D9D9D9;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    border-color: #D9D9D9;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.isbn {
+    position: absolute;
+    width: 120px;
+    height: 25px;
+    left: 18px;
+    top: 25px;
+    background: #D9D9D9;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    border-color: #D9D9D9;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+   
+}
+
+.dropdowns {
+    position: absolute;
+    left: 2px;
+    top: -9px;
+}
+
+#format {
+    position: absolute;
+    width: 80px;
+    height: 25px;
+    left: 1024px;
+    top: 80px;
+    font-family: 'Inter', sans-serif;
+    background: #D9D9D9;
+    border-radius: 5px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+}
+
+#genre {
+    position: absolute;
+    width: 80px;
+    height: 25px;
+    left: 1114px;
+    top: 80px;
+    font-family: 'Inter', sans-serif;
+    background: #D9D9D9;
+    border-radius: 6px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+}
+
+.firstheader {
+    position: absolute;
+    width: 409px;
+    height: 122px;
+    left: 250px;
+    top: 130px;
+    font-family: 'Mate', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 61px;
+}
+
+.paragraph {
+    position: absolute;
+    width: 550px;
+    height: 209px;
+    left: 250px;
+    top: 270px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 19px;
+}
+
+.books {
+    position: relative;
+    left: 760px;
+    bottom: -70px;
+    width: 400px;
+    height: 260px;
+    border-radius: 57px;
+  
+}
+
+.kids {
+    position: relative;
+    left: 360px;
+    top: 345px;
+    width: 399px;
+    height: 260px;
+    border-radius: 52px;
+}
+
+.student {
+    position: absolute;
+    top: 510px;
+    left: 400px;
+    width: 330px;
+    height: 60px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 60px;
+    border: 1px solid rgba(12, 48, 64, 0.22);
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background: #742C2C;
+    border-radius: 9px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.students {
+    position: absolute; 
+    top: 216px;
+    left: 830px;
+    width: 340px;
+    height: 60px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 60px;
+    border: 1px solid rgba(12, 48, 64, 0.22);
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background: #742C2C;
+    border-radius: 9px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.kidsprograms {
+    position: absolute;
+    top: 513px;
+    left: 820px;
+    width: 340px;
+    height: 60px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;  
+    font-size: 32px;
+    line-height: 60px;
+    border: 1px solid rgba(12, 48, 64, 0.22);
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background: #742C2C;
+    border-radius: 9px;
+    color: #FFFFFF;
+    text-align: center;
+    text-decoration: none;
+    
+}
